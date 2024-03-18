@@ -12,17 +12,19 @@ That is why I also appreciate simplicity in software and I try to keep that in m
 
 My favourites for a tech stack currently are:
 <div>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/go.svg"/>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/rust.svg"/>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/elixir.svg"/>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/htmx.svg"/>
+    <img height="32" width="32" title="go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"/>
+    <img height="32" width="32" title="rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"/>
+    <img height="32" width="32" title="elixir" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg"/>
+    <img height="32" width="32" title="lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"/>
+    <img height="32" width="32" title="htmx" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Htmx-Dark.svg"/>
 </div>
 
 And there are some things that I use on a daily-basis:
 <div>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/linux.svg"/>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/neovim.svg"/>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/alacritty.svg"/>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/git.svg"/>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/github.svg"/>
+    <img height="32" width="32" title="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
+    <img height="32" width="32" title="neovim" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg"/>
+    <img height="32" width="32" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+    <img height="32" width="32" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+    <img height="32" width="32" title="alacritty" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/alacritty.svg"/>
+    <img height="32" width="32" title="tmux" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tmux.svg"/>
 </div>
